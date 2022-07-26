@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://harryruirui.github.io</id>
+    <title>Harry&apos;s Blog</title>
+    <updated>2022-07-26T10:57:30.983Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://harryruirui.github.io"/>
+    <link rel="self" href="https://harryruirui.github.io/atom.xml"/>
+    <subtitle>Nope</subtitle>
+    <logo>https://harryruirui.github.io/images/avatar.png</logo>
+    <icon>https://harryruirui.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Harry&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://harryruirui.github.io/post/test/</id>
+        <link href="https://harryruirui.github.io/post/test/">
+        </link>
+        <updated>2022-07-26T06:15:32.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
